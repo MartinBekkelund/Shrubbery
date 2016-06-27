@@ -12,4 +12,4 @@ This text is not written yet.
 
 ## License
 
-Bærtur is licensed under Apache License, Version 2.0, as described in [LICENSE](https://github.com/MartinBekkelund/Baertur/blob/master/LICENSE.md).
+Bærtur is licensed under Apache License, Version 2.0, as described in [LICENSE](https://github.com/MartinBekkelund/Shrubbery/blob/master/LICENSE.md).
