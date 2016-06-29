@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/MartinBekkelund/Shrubbery/master/assets/img/Shrubbery-logo.jpg "Shrubbery")
+
 # Shrubbery
 
 Shrubbery is a framework for creating small, static websites based on PHP.
