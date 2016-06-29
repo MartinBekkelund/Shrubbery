@@ -28,7 +28,7 @@
 
 <nav class="menu">
 	<ul>
-		<li><a href="/">Hjem</a></li>
+		<li><a href="/">Home</a></li>
 		<li><a href="/subdir/">Subdir</a></li>
 	</ul>	
 </nav> <!-- nav#menu -->
